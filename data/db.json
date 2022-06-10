@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Mauris volutpat erat sed mi vestibulum viverra. Curabitur feugiat, tellus nec bibendum venenatis, nibh ante rutrum nulla, non lobortis nibh erat at arcu. Aenean purus massa, commodo vel fermentum id, egestas a ipsum. Integer rhoncus ac arcu sit amet dictum. Etiam pharetra dui nec est feugiat tincidunt. Nam et semper ex. Nunc condimentum mauris ut neque faucibus luctus. Mauris ac tristique sem. Aenean sit amet tempor odio. Donec nulla velit, commodo non aliquam eu, accumsan ut lorem.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 coding tips",
+      "body": "Vestibulum egestas ex magna, non aliquet orci interdum sed. Vivamus cursus neque id leo sollicitudin sollicitudin. Nam quis elit eu diam bibendum iaculis. Morbi eget est dictum tellus maximus pretium. Nullam aliquam placerat pulvinar. Aliquam a aliquam urna. Duis egestas ultricies elit at pretium. Donec fermentum urna at bibendum imperdiet. Donec placerat tortor nunc, non feugiat sem dictum at.",
+      "tags": [
+        "tips",
+        "coding",
+        "webdev"
+      ]
+    }
+  ]
+}
